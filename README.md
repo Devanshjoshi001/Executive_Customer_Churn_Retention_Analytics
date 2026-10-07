@@ -89,7 +89,7 @@ The Power BI file is `churn_analysis_dashboard.pbix`. It contains two pages with
 
 ![Executive overview](Images/Dashboard_page1.PNG)
 
-![Churn drivers](Images/Dashboard_page2.png)
+![Churn drivers](Images/Dashboard_page2.PNG)
 
 **Page 1: Executive overview**
 
