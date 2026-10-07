@@ -87,9 +87,9 @@ Treat this project as a demonstration of the analytics workflow: data engineerin
 
 The Power BI file is `churn_analysis_dashboard.pbix`. It contains two pages with a shared slicer panel.
 
-![Executive overview]()
+![Executive overview](Dashboard_page1.png)
 
-![Churn drivers](screenshots/churn_drivers.png)
+![Churn drivers](Dashboard_page2.png)
 
 **Page 1: Executive overview**
 
